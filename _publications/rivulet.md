@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 date: 01-10-2020
 venue: 'International Conference on Software Engineering'
-paperurl: 'https://katherine-hough.github.io/files/zeugma.pdf'
+paperurl: 'https://katherine-hough.github.io/files/rivulet.pdf'
 citation: "
 Katherine Hough, Gebrehiwet Welearegai, Christian Hammer, and Jonathan Bell. 
 2020. 
