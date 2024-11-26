@@ -2,7 +2,7 @@
 title: "Leveraging Dynamic Data Relationships to Amplify Software Tests"
 collection: publications
 category: theses
-date: 03-10-2024
+date: 26-11-2024
 preprint: true
 paperurl: 'https://katherine-hough.github.io/files/katherine_hough_dissertation_preprint.pdf'
 excerpt: '
