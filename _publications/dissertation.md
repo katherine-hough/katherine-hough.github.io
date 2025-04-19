@@ -4,7 +4,7 @@ collection: publications
 category: theses
 date: 26-11-2024
 preprint: true
-paperurl: 'https://katherine-hough.github.io/files/katherine_hough_dissertation_preprint.pdf'
+paperurl: 'https://katherine-hough.github.io/files/katherine_hough_dissertation.pdf'
 excerpt: '
 <details>
     <summary>Abstract</summary>

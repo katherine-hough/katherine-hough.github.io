@@ -3,9 +3,8 @@ title: "Dynamic Taint Tracking for Modern Java Virtual Machines"
 collection: publications
 category: conferences
 date: 23-06-2025
-preprint: true
 venue: 'Foundations of Software Engineering'
-paperurl: 'https://katherine-hough.github.io/files/galette_preprint.pdf'
+paperurl: 'https://katherine-hough.github.io/files/galette.pdf'
 excerpt: "
 <details>
     <summary>Abstract</summary>
